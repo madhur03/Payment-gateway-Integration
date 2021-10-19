@@ -1,0 +1,80 @@
+body{
+  background-image: url("img/background.jpg");
+}
+.nav {
+    background-color: #333;
+    overflow: hidden;
+  }
+  
+  .nav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  .text{
+      text-decoration: none;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  .heading{
+    font-weight: bold;
+    text-decoration: none;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+    font-size: xx-large;
+  }
+  .footer
+{
+position:fixed;
+
+bottom: 0;
+
+width: 100%;
+background-color: black;
+color: white;
+text-align: center;
+}
+ 
+.nice-container{
+  margin:0;
+  padding:0;
+  background-color: black;
+  height:150px;
+  width:100%;
+}
+#iconfacebook{
+  background-color: rgb(17, 17, 116);
+  color: white;
+ 
+
+}
+#icontwitter{
+  background-color: rgb(6, 128, 177);
+  color: seashell;
+}
+#iconinsta{
+  background-color: whitesmoke;
+  color: rgb(250, 7, 197);
+}
+.Donate{
+  margin-left: 630px;
+}
+h4{ 
+  padding-top: 10px;
+  text-align: center;
+}
+.label{
+  padding: 10px,50px;
+  margin: 4px 2px;
+  display: inline-block;
+}
+
+  
+  
+  
+  
